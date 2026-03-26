@@ -61,9 +61,7 @@ The dashboard includes:
 - Majority of orders are successfully delivered
 
 # Dashboard Preview
-<img width="1370" height="743" alt="dasboard(ecommerce-sale)" src="https://github.com/user-attachments/assets/7bfc2439-1752-4e24-a90b-7a751aea4443" />
-
-
+<img width="1371" height="743" alt="e-commerce sales" src="https://github.com/user-attachments/assets/c30fbe02-296f-48d7-afb3-32dea788d77a" />
 
 ## Conclusion
 In this project, I cleaned and analyzed e-commerce data using Excel, SQL, and Power BI. I created a dashboard to visualize sales trends, customer behavior, and product performance. This project helped me understand how to convert raw data into useful insights.
