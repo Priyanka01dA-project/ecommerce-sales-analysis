@@ -5,9 +5,9 @@ End-to-end e-commerce data analysis project using Excel, SQL, and Power BI with 
 This project analyzes e-commerce sales data to understand customer behavior, product performance, and regional trends. The goal is to transform raw data into meaningful insights using Excel, SQL, and Power BI.
 
 ## Tools 
-Excel – Data Cleaning
-SQL – Data Analysis
-Power BI – Data Visualization
+- Excel – Data Cleaning
+- SQL – Data Analysis
+- Power BI – Data Visualization
 
 ## Dataset Description
 The dataset includes customer demographics, product details, and transaction data.
