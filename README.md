@@ -1,10 +1,10 @@
-# ecommerce-sales-analysis
+# E-Commerce Sales Analysis Dashboard
 End-to-end e-commerce data analysis project using Excel, SQL, and Power BI with dashboard and insights.
 
 ## Project Overview
 This project analyzes e-commerce sales data to understand customer behavior, product performance, and regional trends. The goal is to transform raw data into meaningful insights using Excel, SQL, and Power BI.
 
-## Tools 
+## Tools & Technologies
 - Excel – Data Cleaning
 - SQL – Data Analysis
 - Power BI – Data Visualization
@@ -60,8 +60,8 @@ The dashboard includes:
 - Some regions perform better than others
 - Majority of orders are successfully delivered
 
-# Dashboard Preview
-## 📊 Dashboard Preview
+## Dashboard Preview
+
 ![Dashboard](dashboard.png)
 
 ## Conclusion
